@@ -1,0 +1,1 @@
+document.querySelector(".hero").style.setProperty("--height", window.innerHeight + "px");
